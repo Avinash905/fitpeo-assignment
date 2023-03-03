@@ -39,7 +39,7 @@ const Sidebar = () => {
           <h6 className="nav-heading">menu</h6>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link dashboard"
             >
               <RxDashboard className="nav-icon" />
@@ -51,7 +51,7 @@ const Sidebar = () => {
           <h6 className="nav-heading">applications</h6>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <BsCalendar2Event className="nav-icon" />
@@ -60,7 +60,7 @@ const Sidebar = () => {
           </div>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <AiOutlineMessage className="nav-icon" />
@@ -69,7 +69,7 @@ const Sidebar = () => {
           </div>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <BsArchiveFill className="nav-icon" />
@@ -78,7 +78,7 @@ const Sidebar = () => {
           </div>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <FiShoppingBag className="nav-icon" />
@@ -87,7 +87,7 @@ const Sidebar = () => {
           </div>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <AiOutlineMail className="nav-icon" />
@@ -96,7 +96,7 @@ const Sidebar = () => {
           </div>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <FiBook className="nav-icon" />
@@ -105,7 +105,7 @@ const Sidebar = () => {
           </div>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <FaSuitcase className="nav-icon" />
@@ -114,7 +114,7 @@ const Sidebar = () => {
           </div>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <AiOutlineWifi className="nav-icon" />
@@ -126,7 +126,7 @@ const Sidebar = () => {
           <h6 className="nav-heading">pages</h6>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <BsFillPersonCheckFill className="nav-icon" />
@@ -135,7 +135,7 @@ const Sidebar = () => {
           </div>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <BsBox className="nav-icon" />
@@ -147,7 +147,7 @@ const Sidebar = () => {
           <h6 className="nav-heading">components</h6>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <FiLayers className="nav-icon" />
@@ -156,7 +156,7 @@ const Sidebar = () => {
           </div>
           <div className="navigation-card">
             <NavLink
-              to={"/"}
+              to={"/fitpeo-assignment"}
               className="nav-link"
             >
               <TbPencilMinus className="nav-icon" />
