@@ -1,0 +1,125 @@
+@import url(app.css);
+
+.overview {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 100%;
+}
+
+.overview-top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dropdown {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.dropdown-label {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+select {
+  outline: none;
+  border: none;
+}
+
+option {
+  text-transform: capitalize;
+  color: gray;
+}
+
+.overview-content {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.overview-data {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.overview-price {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.overview-price strong {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.overview-table {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.overview-table-row {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgb(234, 234, 234);
+}
+
+.overview-table-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  width: 100%;
+  padding: 0.5rem;
+  padding-right: 2rem;
+}
+
+.overview-table-box:nth-child(1) {
+  border-right: 1px solid rgb(234, 234, 234);
+}
+
+.overview-table strong {
+  font-weight: 500;
+}
+
+.overview-graph,
+.orderstats-graph {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.useractivity-graph {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.top-products-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.useractivity {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  width: 100%;
+}
+
+.useractivity-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+@media screen and (max-width: 900px) {
+  .overview-content {
+    flex-direction: column;
+  }
+  .overview-graph {
+    width: 100%;
+  }
+}

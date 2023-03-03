@@ -1,0 +1,32 @@
+@import url(app.css);
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-heading {
+  font-weight: 400;
+}
+
+.header-pic {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+.header-links {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header-links svg {
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.usflag {
+  width: 20px;
+}
