@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fitpeo-assignment/static/css/main.fdc451dd.css",
-    "main.js": "/fitpeo-assignment/static/js/main.380f9b9a.js",
+    "main.js": "/fitpeo-assignment/static/js/main.df0509b5.js",
     "index.html": "/fitpeo-assignment/index.html",
     "main.fdc451dd.css.map": "/fitpeo-assignment/static/css/main.fdc451dd.css.map",
-    "main.380f9b9a.js.map": "/fitpeo-assignment/static/js/main.380f9b9a.js.map"
+    "main.df0509b5.js.map": "/fitpeo-assignment/static/js/main.df0509b5.js.map"
   },
   "entrypoints": [
     "static/css/main.fdc451dd.css",
-    "static/js/main.380f9b9a.js"
+    "static/js/main.df0509b5.js"
   ]
 }
